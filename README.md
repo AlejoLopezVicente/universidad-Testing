@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/joseripla/uvtesting.svg?branch=master)](https://travis-ci.org/joseripla/uvtesting) 
+[![Build Status](https://travis-ci.org/joseripla/upvtesting.svg?branch=master)](https://travis-ci.org/joseripla/upvtesting) 
 
 Requisitos técnicos
 -------------
