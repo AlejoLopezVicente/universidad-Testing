@@ -1,4 +1,4 @@
-package es.upv.charla;
+package es.uv.catedra;
 
 import org.junit.Assert;
 import org.junit.Test;
